@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4145004,
       "digest": null,
-      "download_count": 1072,
+      "download_count": 1074,
       "created_at": "2023-12-11T01:59:05Z",
       "updated_at": "2023-12-11T01:59:05Z",
       "browser_download_url": "https://github.com/zu1k/nali/releases/download/v0.8.1/nali-linux-386-v0.8.1.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4315975,
       "digest": null,
-      "download_count": 7199,
+      "download_count": 7201,
       "created_at": "2023-12-11T01:59:05Z",
       "updated_at": "2023-12-11T01:59:06Z",
       "browser_download_url": "https://github.com/zu1k/nali/releases/download/v0.8.1/nali-linux-amd64-v0.8.1.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3938947,
       "digest": null,
-      "download_count": 685,
+      "download_count": 686,
       "created_at": "2023-12-11T01:59:05Z",
       "updated_at": "2023-12-11T01:59:05Z",
       "browser_download_url": "https://github.com/zu1k/nali/releases/download/v0.8.1/nali-linux-armv8-v0.8.1.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 4458426,
       "digest": null,
-      "download_count": 2239,
+      "download_count": 2240,
       "created_at": "2023-12-11T01:59:05Z",
       "updated_at": "2023-12-11T01:59:06Z",
       "browser_download_url": "https://github.com/zu1k/nali/releases/download/v0.8.1/nali-windows-amd64-v0.8.1.zip"
