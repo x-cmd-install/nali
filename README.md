@@ -7,7 +7,7 @@ An offline tool for querying IP geographic information and CDN provider. 涓�涓
 - **Latest release**: `v0.8.1` (2023-12-11)
 - **Last commit**: 2026-05-12
 - **License**: MIT
-- **Stars**: 4103 路 **Forks**: 371 路 **Open issues**: 111 路 **Contributors**: 21
+- **Stars**: 4104 路 **Forks**: 371 路 **Open issues**: 111 路 **Contributors**: 21
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/nali> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:22:17Z._
+_Last regenerated: 2026-09-09T20:19:24Z._
