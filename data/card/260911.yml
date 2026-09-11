@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.1"
   latestRelease: "v0.8.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:19:08Z
+  collectedAt: 2026-09-11T18:40:29Z
 timeline:
   created: 2020-07-17
   lastCommit: 2026-05-12
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 4105
   watcher: 25
-  fork: 371
+  fork: 370
   release: 44
   contributor: 21
   pullRequest: 97
@@ -85,7 +85,7 @@ total:
   commit: 295
 ---
 path: /home/runner/.x-repo/github.com/zu1k/nali
-collectedAt: 2026-09-11T06:19:09Z
+collectedAt: 2026-09-11T18:40:32Z
 loc:
   Go:
     code: 2257
