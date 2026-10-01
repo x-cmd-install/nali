@@ -14,15 +14,15 @@ x install nali
 
 ## Code insight
 
-Total: **2,348** lines of code across **47** files in the top 5 languages.
+Total: **4,424** lines of code across **68** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,257 | 54 | 400 | 42 |
-| Makefile | 79 | 0 | 30 | 1 |
-| Dockerfile | 11 | 0 | 3 | 1 |
+| Go | 4,324 | 171 | 644 | 63 |
+| Makefile | 87 | 1 | 34 | 1 |
+| Dockerfile | 12 | 0 | 3 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
-| Markdown | 0 | 465 | 184 | 2 |
+| Markdown | 0 | 620 | 260 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.8.1` (2023-12-11)
-- **Last commit**: 2026-05-12
+- **Last commit**: 2026-09-30
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 4,106 · **Forks**: 373 · **Open issues**: 111 · **Contributors**: 21
+- **Stars**: 4,106 · **Forks**: 374 · **Open issues**: 111 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 58 · **Open PRs**: 2 · **Closed issues**: 94 · **Open issues**: 17 · **Commits**: 295
+- **Releases**: 44 · **Merged PRs**: 62 · **Open PRs**: 1 · **Closed issues**: 101 · **Open issues**: 10 · **Commits**: 299
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-03 | 0 | 1 | 1 | 0 | 3 | 2 |
-| 360d | 2025-10-05 | 0 | 2 | 1 | 0 | 3 | 2 |
-| last720d | 2024-10-10 | 0 | 5 | 1 | 1 | 7 | 5 |
+| 30d | 2026-09-01 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-02 | 0 | 3 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-03 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-04 | 0 | 5 | 0 | 2 | 1 | 6 |
+| 360d | 2025-10-06 | 0 | 6 | 0 | 2 | 1 | 6 |
+| last720d | 2024-10-11 | 0 | 9 | 0 | 3 | 5 | 9 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for nali lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:56:23Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:16:56Z._
