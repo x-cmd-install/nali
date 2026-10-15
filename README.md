@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 3 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-15 | 0 | 3 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-16 | 0 | 3 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-17 | 0 | 5 | 0 | 2 | 0 | 6 |
-| 360d | 2025-10-19 | 0 | 6 | 0 | 2 | 1 | 6 |
-| last720d | 2024-10-24 | 0 | 9 | 0 | 3 | 5 | 9 |
+| 30d | 2026-09-15 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-16 | 0 | 3 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-17 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-18 | 0 | 5 | 0 | 1 | 0 | 6 |
+| 360d | 2025-10-20 | 0 | 6 | 0 | 2 | 1 | 6 |
+| last720d | 2024-10-25 | 0 | 9 | 0 | 3 | 5 | 9 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for nali lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:08:36Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:50:23Z._
