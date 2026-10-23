@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,107 · **Forks**: 374 · **Open issues**: 111 · **Contributors**: 23
+- **Stars**: 4,109 · **Forks**: 374 · **Open issues**: 111 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 3 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-23 | 0 | 3 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-24 | 0 | 3 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-25 | 0 | 5 | 0 | 1 | 0 | 6 |
-| 360d | 2025-10-27 | 0 | 6 | 0 | 2 | 1 | 6 |
-| last720d | 2024-11-01 | 0 | 9 | 0 | 3 | 5 | 9 |
+| 30d | 2026-09-23 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-24 | 0 | 3 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-25 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-26 | 0 | 5 | 0 | 1 | 0 | 6 |
+| 360d | 2025-10-28 | 0 | 6 | 0 | 2 | 1 | 6 |
+| last720d | 2024-11-02 | 0 | 9 | 0 | 3 | 5 | 9 |
 
 ## Release assets
 
@@ -106,6 +106,15 @@ Lowest-scoring checks:
 | [nali-windows-amd64-v0.8.1.zip](https://github.com/zu1k/nali/releases/download/v0.8.1/nali-windows-amd64-v0.8.1.zip) | 4.3 MiB | `native/win/x64` |
 | [nali-windows-amd64-v0.8.1.zip.sha256](https://github.com/zu1k/nali/releases/download/v0.8.1/nali-windows-amd64-v0.8.1.zip.sha256) | 96 B | `native/win/x64` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/nali). **10** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.8.1` | ✅ latest |
+| Nix unstable | `0.8.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for nali lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nali` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -115,4 +124,4 @@ Install metadata for nali lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:07:38Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:09:12Z._
