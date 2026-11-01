@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,108 · **Forks**: 374 · **Open issues**: 111 · **Contributors**: 23
+- **Stars**: 4,109 · **Forks**: 374 · **Open issues**: 111 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 62 · **Open PRs**: 1 · **Closed issues**: 101 · **Open issues**: 10 · **Commits**: 299
+- **Releases**: 44 · **Merged PRs**: 62 · **Open PRs**: 2 · **Closed issues**: 101 · **Open issues**: 10 · **Commits**: 299
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 0 | 3 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-02 | 0 | 3 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-04 | 0 | 4 | 0 | 1 | 0 | 6 |
-| 360d | 2025-11-05 | 0 | 6 | 0 | 2 | 1 | 6 |
-| last720d | 2024-11-10 | 0 | 9 | 0 | 3 | 5 | 9 |
+| 30d | 2026-10-02 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 0 | 3 | 1 | 0 | 0 | 4 |
+| 90d | 2026-08-03 | 0 | 3 | 1 | 0 | 0 | 4 |
+| last180d | 2026-05-05 | 0 | 4 | 1 | 1 | 0 | 6 |
+| 360d | 2025-11-06 | 0 | 6 | 1 | 2 | 1 | 6 |
+| last720d | 2024-11-11 | 0 | 9 | 1 | 3 | 5 | 9 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for nali lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:55:07Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:28:44Z._
