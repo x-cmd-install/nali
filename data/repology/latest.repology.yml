@@ -10,24 +10,12 @@
     - i@xyenon.bid
   licenses:
     - MIT
-- repo: nix_stable_24_05
-  srcname: nali
-  visiblename: nali
-  version: 0.8.1
-  origversion: null
-  status: newest
-  summary: An offline tool for querying IP geographic information and CDN provider
-  maintainers:
-    - git@diffumist.me
-    - i@xyenon.bid
-  licenses:
-    - MIT
 - repo: aosc
   srcname: app-network/nali
   binname: nali
   visiblename: nali
   version: 0.8.1
-  origversion: 0.8.1-8
+  origversion: 0.8.1-9
   status: newest
   summary: An offline tool for querying IP geographic information and CDN provider
   maintainers:
@@ -74,6 +62,18 @@
     - MIT
   categories:
     - net
+- repo: nix_stable_24_05
+  srcname: nali
+  visiblename: nali
+  version: 0.8.1
+  origversion: null
+  status: newest
+  summary: An offline tool for querying IP geographic information and CDN provider
+  maintainers:
+    - git@diffumist.me
+    - i@xyenon.bid
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: nali
   visiblename: nali
